@@ -21,8 +21,8 @@ UNAPPROVED_MSG = (
     "`•Tunggu Sampai @IntanArap Melihat Ini!.`"
     "`🚫NOSPAM IN HERE! SPAM? I AM BLOCK YOU!!...\n\n`"
     "`Terimakasih Semoga Anda PAHAM!!`")
-    "` INI ADALAH PESAN OTOMATIS.\n"
-    "` 💖IntanArap💖'")
+    "`INI ADALAH PESAN OTOMATIS.\n"
+    "`❤️IntanArap❤`"  )
 # =================================================================
 
 
@@ -72,8 +72,8 @@ async def permitpm(event):
                 if COUNT_PM[event.chat_id] > 4:
                     await event.respond(
                         "`ANDA SUDAH MENGABAIKAN PERINGATAN ITUU!!.`\n"
-                        "`SAYA TIDAK SUKA ITU!! I AM BLOCK YOU!!❌
-Bye.`"
+                        "`SAYA TIDAK SUKA ITU!! I AM BLOCK YOU!!❌`\n"
+                        "`Bye`"
                     )
 
                     try:
