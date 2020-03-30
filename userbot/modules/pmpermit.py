@@ -21,7 +21,7 @@ UNAPPROVED_MSG = (
     "`•Tunggu Sampai @IntanArap Melihat Ini!.`"
     "`🚫NOSPAM IN HERE! SPAM? I AM BLOCK YOU!!...\n\n`"
     "`Terimakasih Semoga Anda PAHAM!!`")
-    "`INI ADALAH PESAN OTOMATIS.\n"
+    "`INI ADALAH PESAN OTOMATIS.\n'"
     "`❤️IntanArap❤`"  )
 # =================================================================
 
